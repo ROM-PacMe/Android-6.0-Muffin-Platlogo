@@ -71,11 +71,11 @@
             android:id="@+id/verionname"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="15dp"
+            android:layout_marginTop="10dp"
             android:gravity="center"
-            android:text="Muffin"
+            android:text="Marshmallow"
            
-            android:textSize="30sp" />
+            android:textSize="25sp" />
     </LinearLayout>
 
     <LinearLayout
